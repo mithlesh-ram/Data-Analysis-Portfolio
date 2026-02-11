@@ -14,7 +14,7 @@ The tools that is covered in this portfolio are:
 
 For Excel and Power BI the dashboard are directly visualized from the raw xml file using invild formulaes as shown in Output Dashboard.
 
-For the SQL part I have attached a PDF to review the codes used to get particualar output, available in assets -> SQL
+For the SQL part I have attached a PDF to review the codes used to get particualar output, available in assets -> SQL Data Analysis.pdf
 
 As I am learning and deploying my skills so the Portfolio will be updated when I will add something more on Data Analyst stuff.
 
