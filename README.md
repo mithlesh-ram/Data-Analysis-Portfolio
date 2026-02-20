@@ -115,7 +115,8 @@ To extract insights directly from raw accident datasets using SQL queries.
 * Monthly accident growth pattern
 * Hidden trends not visible in raw data
 
-# To see more SQL Queries, you can read: SQL Data Analysis.pdf
+* To see more SQL Queries, you can read: SQL Data Analysis.pdf mentioned above.
+
 
 ---
 
