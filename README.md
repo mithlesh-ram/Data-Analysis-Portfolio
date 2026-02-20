@@ -2,7 +2,8 @@
 
 # 🚀 Mithlesh Ram — Data Analyst Portfolio
 
-> Turning raw data into meaningful insights using **Excel, Power BI, and SQL**
+
+Turning raw data into meaningful insights using **Excel, Power BI, and SQL**
 
 ---
 
